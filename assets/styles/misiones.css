@@ -1,0 +1,33 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border-collapse: collapse;
+    border:  2px solid rgb(180, 178, 178);
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    background-color: rgb(195, 193, 193);
+}
+
+th{
+    border: 1px solid rgb(165, 160, 160);
+    padding: 10px;
+    background-color: rgb(195, 193, 193);
+}
+
+td{
+    border: 1px solid rgb(142, 139, 139);
+    padding: 10px;
+    
+}
+
+h2{
+    margin: 0;
+    padding: 20px;
+}
+
+tr:hover{
+    background-color: rgb(158, 142, 151);
+}
